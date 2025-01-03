@@ -1,4 +1,4 @@
-# Homework 2 | [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%201/Homework%201%20-%20Problems.pdf) | [![Static Badge](https://img.shields.io/badge/Report-blue)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%201/Homework%201%20-%20Report.pdf) | [![Static Badge](https://img.shields.io/badge/Codes-green)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%201/Simulation_Problems.ipynb) 
+# Homework 1 | [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%201/Homework%201%20-%20Problems.pdf) | [![Static Badge](https://img.shields.io/badge/Report-blue)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%201/Homework%201%20-%20Report.pdf) | [![Static Badge](https://img.shields.io/badge/Codes-green)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%201/Simulation_Problems.ipynb) 
 * **Problem 1.** *Visa*
 * **Problem 2.** *Independence*
 * **Problem 3.** *Mean, Median, and Mode*
