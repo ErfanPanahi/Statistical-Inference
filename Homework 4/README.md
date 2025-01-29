@@ -1,4 +1,4 @@
-# Homework 4 |  [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%204/Homework%204%20-%20Problems.pdf) | [![Static Badge](https://img.shields.io/badge/Report-blue)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%203/Homework%203%20-%20Report.pdf) 
+# Homework 4 |  [![Static Badge](https://img.shields.io/badge/Problems-red)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%204/Homework%204%20-%20Problems.pdf) | [![Static Badge](https://img.shields.io/badge/Report-blue)](https://github.com/ErfanPanahi/Statistical-Inference/blob/main/Homework%204/Homework%204%20-%20Report.pdf) 
 * **Problem 1.** *Say Hello to Neyman-Pearson*
 * **Problem 2.** *Wald Test*
 * **Problem 3.** $f_0(x)$ *vs* $f_1(x)$
